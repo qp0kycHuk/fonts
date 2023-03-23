@@ -1,0 +1,14 @@
+{
+  "name": "@qpokychuk/fonts",
+  "version": "1.0.0",
+  "description": "fonts packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fonts"
+  ],
+  "author": "Sergey Yuferov <serega990112@mail.ru>",
+  "license": "ISC"
+}
