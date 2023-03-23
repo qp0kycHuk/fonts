@@ -11,13 +11,13 @@ npm install @qpokychuk/fonts --save
 Импортируйте нужный шрифт в js или css
 
 ```js
-import '@qpokychuk/fonts/inter';
+import '@qpokychuk/fonts/inter/index.css';
 ```
 
 ```css
-@import '@qpokychuk/fonts/inter';
+@import '@qpokychuk/fonts/inter/index.css';
 ```
 
 ## Доступные шрифты:
 
-inter
+inter - `font-family: 'Inter'`
