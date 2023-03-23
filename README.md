@@ -20,5 +20,6 @@ import '@qpokychuk/fonts/inter/index.css';
 
 ## Доступные шрифты:
 
-ibm-plex-serif - `font-family: 'IBM Plex Serif'`
-inter - `font-family: 'Inter'`
+| ibm-plex-serif | `font-family: 'IBM Plex Serif` |
+|---|---|
+| inter | `font-family: 'Inter'` |
