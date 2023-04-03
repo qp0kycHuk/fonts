@@ -24,5 +24,6 @@ import '@qpokychuk/fonts/inter/index.css';
 |---|---|
 | ibm-plex-serif | `font-family: 'IBM Plex Serif` |
 | inter | `font-family: 'Inter'` |
+| okta-neue | `font-family: 'Okta Neue'` |
 | roboto | `font-family: 'Roboto'` |
 | sf-pro-dispaly | `font-family: 'SF Pro Display'` |
