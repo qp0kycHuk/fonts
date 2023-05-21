@@ -22,6 +22,7 @@ import '@qpokychuk/fonts/inter/index.css';
 
 | Путь | font-family |
 |---|---|
+| gilroy | `font-family: 'Gilroy` |
 | ibm-plex-serif | `font-family: 'IBM Plex Serif` |
 | inter | `font-family: 'Inter'` |
 | okta-neue | `font-family: 'Okta Neue'` |
