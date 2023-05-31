@@ -22,10 +22,12 @@ import '@qpokychuk/fonts/inter/index.css';
 
 | Путь | font-family |
 |---|---|
-| gilroy | `font-family: 'Gilroy` |
-| ibm-plex-serif | `font-family: 'IBM Plex Serif` |
+| foglihtenno06 | `font-family: 'FoglihtenNo06'` |
+| gilroy | `font-family: 'Gilroy'` |
+| ibm-plex-serif | `font-family: 'IBM Plex Serif'` |
 | inter | `font-family: 'Inter'` |
 | montserrat | `font-family: 'Montserrat'` |
 | okta-neue | `font-family: 'Okta Neue'` |
+| raleway | `font-family: 'Raleway'` |
 | roboto | `font-family: 'Roboto'` |
 | sf-pro-dispaly | `font-family: 'SF Pro Display'` |
