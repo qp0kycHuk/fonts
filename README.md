@@ -30,4 +30,4 @@ import '@qpokychuk/fonts/inter/index.css';
 | okta-neue | `font-family: 'Okta Neue'` |
 | raleway | `font-family: 'Raleway'` |
 | roboto | `font-family: 'Roboto'` |
-| sf-pro-dispaly | `font-family: 'SF Pro Display'` |
+| sf-pro-display | `font-family: 'SF Pro Display'` |
