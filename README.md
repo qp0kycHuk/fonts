@@ -26,6 +26,7 @@ import '@qpokychuk/fonts/inter/index.css';
 | gilroy | `font-family: 'Gilroy'` |
 | ibm-plex-serif | `font-family: 'IBM Plex Serif'` |
 | inter | `font-family: 'Inter'` |
+| manrope | `font-family: 'Manrope'` |
 | montserrat | `font-family: 'Montserrat'` |
 | okta-neue | `font-family: 'Okta Neue'` |
 | raleway | `font-family: 'Raleway'` |
