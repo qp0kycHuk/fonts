@@ -22,13 +22,14 @@ import '@qpokychuk/fonts/inter/index.css';
 
 | Путь | font-family |
 |---|---|
-| foglihtenno06 | `font-family: 'FoglihtenNo06'` |
-| gilroy | `font-family: 'Gilroy'` |
+| foglihtenno06  | `font-family: 'FoglihtenNo06'` |
+| gilroy         | `font-family: 'Gilroy'` |
 | ibm-plex-serif | `font-family: 'IBM Plex Serif'` |
-| inter | `font-family: 'Inter'` |
-| manrope | `font-family: 'Manrope'` |
-| montserrat | `font-family: 'Montserrat'` |
-| okta-neue | `font-family: 'Okta Neue'` |
-| raleway | `font-family: 'Raleway'` |
-| roboto | `font-family: 'Roboto'` |
+| inter          | `font-family: 'Inter'` |
+| manrope        | `font-family: 'Manrope'` |
+| montserrat     | `font-family: 'Montserrat'` |
+| okta-neue      | `font-family: 'Okta Neue'` |
+| open-sans      | `font-family: 'Open Sans'` |
+| raleway        | `font-family: 'Raleway'` |
+| roboto         | `font-family: 'Roboto'` |
 | sf-pro-display | `font-family: 'SF Pro Display'` |

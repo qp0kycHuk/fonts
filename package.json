@@ -1,6 +1,6 @@
 {
   "name": "@qpokychuk/fonts",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "fonts packages",
   "main": "index.js",
   "scripts": {
